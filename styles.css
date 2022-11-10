@@ -1,0 +1,16 @@
+body{
+    background-color:black;
+}
+.clock{
+    position: absolute;
+top:50%;
+left:40%;
+color:white;
+transform: translateX(-50%)translateY(-50%);
+font-size: large;
+letter-spacing: 7px;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-weight: bold;
+
+
+}
